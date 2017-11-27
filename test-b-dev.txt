@@ -1,0 +1,3 @@
+test conflict when merge,this is master branch
+
+this is new line.
