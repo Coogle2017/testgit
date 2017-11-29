@@ -1,1 +1,3 @@
 test bind local git user.email to github email
+
+just test
